@@ -1,0 +1,27 @@
+[
+  {
+    "currentClue": "ஆசை என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["அ", "வா"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "உச்சி என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["மு", "க", "டு"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "ஈசன் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ஆ", "ள்", "வ", "ோ", "ன்"],
+    "preFilledCount": 2
+  },
+  {
+    "currentClue": "இரயில் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["இ", "ரு", "ப்", "பு", "ப்", "பா", "தி"],
+    "preFilledCount": 3
+  },
+  {
+    "currentClue": "ஆதாரம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ப", "ற்", "று", "க்", "கோ", "டு"],
+    "preFilledCount": 2
+  }
+]
