@@ -11,7 +11,7 @@
   },
   {
     "currentClue": "ஈசன் என்ற சொல் தமிழில் என்ன?",
-    "correctAnswers": ["ஆ", "ள்", "வ", "ோ", "ன்"],
+    "correctAnswers": ["ஆ", "ள்", "வ", "கோ", "ன்"],
     "preFilledCount": 2
   },
   {
@@ -23,5 +23,85 @@
     "currentClue": "ஆதாரம் என்ற சொல் தமிழில் என்ன?",
     "correctAnswers": ["ப", "ற்", "று", "க்", "கோ", "டு"],
     "preFilledCount": 2
+  },
+  {
+    "currentClue": "அகதி என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ஏ", "தி", "லி"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அகிலம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["வை", "ய", "கம்"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அங்குலம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["வி", "ரல்", "கி", "டை"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அசகாய சூரன் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["து", "ணை", "தே", "டா", "மா", "வீ", "ரன்"],
+    "preFilledCount": 2
+  },
+  {
+    "currentClue": "அசம்பாவிதம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["மு", "ரண்", "இ", "க", "ழ்வு"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அட்சதை என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ம", "ங்", "க", "ல", "அ", "ரி", "சி"],
+    "preFilledCount": 2
+  },
+  {
+    "currentClue": "அத்தியாவசியம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["இ", "ந்", "ரி", "ய", "ம", "யா", "மை"],
+    "preFilledCount": 2
+  },
+  {
+    "currentClue": "அபத்தம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["பொ", "ய்", "மை"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அமர்க்களம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["போ", "ர்", "க", "ளம்"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அமரர் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["வி", "ண்", "ண", "வர்"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அமாவாசை என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ம", "தி", "ம", "றை", "நாள்"],
+    "preFilledCount": 2
+  },
+  {
+    "currentClue": "அர்ச்சனை என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["பூ", "ச", "னை"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "அனுமதி என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["இ", "சை", "வு"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "ஆதாரம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ப", "ற்", "று", "க்", "கோ", "டு"],
+    "preFilledCount": 2
+  },
+  {
+    "currentClue": "ஆயுதம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["ப", "டை", "க்", "க", "லம்"],
+    "preFilledCount": 1
+  },
+  {
+    "currentClue": "ஆனந்தம் என்ற சொல் தமிழில் என்ன?",
+    "correctAnswers": ["க", "ளி", "ப்பு"],
+    "preFilledCount": 1
   }
 ]
